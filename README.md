@@ -1,0 +1,1 @@
+To play restricted: https://rykerling.github.io/Restricted/
